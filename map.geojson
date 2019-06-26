@@ -387,7 +387,7 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#0432ff",
+        "marker-color": "#00fa00",
         "marker-size": "medium",
         "marker-symbol": "",
         "label": "Schutzhütte Seniorenbouler"
@@ -3922,7 +3922,57 @@
       "properties": {
         "fill-opacity": 0,
         "stroke-width": 2,
-        "stroke": "#4e7a27"
+        "stroke": "#4e7a27",
+        "marker-size": "",
+        "label": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#0432ff",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "label": "Treue"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.622486591339111,
+          49.67552589440526
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "label": "Springbrunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.59153926372528,
+          49.68681357061101
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#0432ff",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "label": 1965
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.621722161769867,
+          49.678355001514376
+        ]
       }
     }
   ]
