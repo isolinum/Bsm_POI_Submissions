@@ -3974,6 +3974,102 @@
           49.678355001514376
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#0432ff",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "label": "Spielplatz"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.61825406551361,
+          49.69489590799254
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#0432ff",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "label": "Spielplatz am Weiherhaus"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.611709475517273,
+          49.69470852681026
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#0432ff",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "label": "Hasengarage"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.61913651227951,
+          49.69383233669469
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#0432ff",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "label": "Meister Goethe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.620335459709167,
+          49.691880371229246
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "label": "Spielplatz"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.615443110466003,
+          49.67860839816896
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "label": "Rex"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.617181181907654,
+          49.675442580780945
+        ]
+      }
     }
   ]
 }
