@@ -4042,7 +4042,7 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#7e7e7e",
+        "marker-color": "#0432ff",
         "marker-size": "medium",
         "marker-symbol": "",
         "label": "Spielplatz"
@@ -4058,16 +4058,96 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#7e7e7e",
+        "marker-color": "#0432ff",
         "marker-size": "medium",
         "marker-symbol": "",
-        "label": "Rex"
+        "label": "Rex Musiktheater"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
           8.617181181907654,
           49.675442580780945
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#0432ff",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "label": "Roter Drache"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.610363006591797,
+          49.68099998100033
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#0432ff",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "label": "Postamt"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.61546993255615,
+          49.68034395619847
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#0432ff",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "label": "Widder, Fische, Krebs"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.617444038391113,
+          49.68784432558286
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#0432ff",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "label": "3 Kinder (Mosaik)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.617191910743713,
+          49.69795983483017
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#0432ff",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "label": "Spielplatz am alten E-Werk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.615105152130127,
+          49.70029842135105
         ]
       }
     }
