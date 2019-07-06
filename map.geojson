@@ -267,8 +267,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          8.611650466918945,
-          49.69235579048416
+          8.611897230148315,
+          49.69222739304156
         ]
       }
     },
@@ -395,8 +395,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          8.614053726196289,
-          49.69350788208973
+          8.613726496696472,
+          49.69345236022906
         ]
       }
     },
@@ -4260,6 +4260,102 @@
         "coordinates": [
           8.615346550941466,
           49.69304288454781
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#00fa00",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "label": "Bolzplatz"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.609687089920044,
+          49.692945720320424
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#00fa00",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "label": "Spielplatz"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.604644536972046,
+          49.681055517085156
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#00fa00",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "label": "Bischöfliches Konvikt"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.620351552963257,
+          49.688434310175914
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#00fa00",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "label": "Stolpersteine"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.622084259986877,
+          49.68128460276445
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#00fa00",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "label": "St. Albertus Mosaik"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.62249732017517,
+          49.676813766025155
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7b209f",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "label": "Möve - nur Portal, kein Stop"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.620131611824036,
+          49.68211069064431
         ]
       }
     }
