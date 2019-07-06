@@ -4246,6 +4246,22 @@
           49.689940473662155
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#0432ff",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "label": "Mosaik"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.615346550941466,
+          49.69304288454781
+        ]
+      }
     }
   ]
 }
