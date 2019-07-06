@@ -4358,6 +4358,22 @@
           49.68211069064431
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#0432ff",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "label": "Jumelage - Bensheim - Beaune"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.626617193222046,
+          49.669558195066216
+        ]
+      }
     }
   ]
 }
