@@ -4150,6 +4150,54 @@
           49.70029842135105
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#0432ff",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "label": "Die 4 Vögel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.63569378852844,
+          49.67520999615764
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#0432ff",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "label": "Geometrische Wandmalerei"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.63650381565094,
+          49.67537662406045
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#0432ff",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "label": "De roure Gockel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.629471063613892,
+          49.67473093775692
+        ]
+      }
     }
   ]
 }
