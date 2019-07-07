@@ -502,7 +502,7 @@
         "marker-color": "#0432ff",
         "marker-size": "medium",
         "marker-symbol": "",
-        "label": "Ggew Graffiti bei tegut"
+        "label": "GGEW Graffiti bei tegut"
       },
       "geometry": {
         "type": "Point",
@@ -518,7 +518,7 @@
         "marker-color": "#0432ff",
         "marker-size": "medium",
         "marker-symbol": "",
-        "label": "Ggew Graffiti blumen/Glühbirnen bei Kleingarten Bensheim"
+        "label": "GGEW Graffiti blumen/Glühbirnen bei Kleingarten Bensheim"
       },
       "geometry": {
         "type": "Point",
@@ -550,7 +550,7 @@
         "marker-color": "#7e7e7e",
         "marker-size": "medium",
         "marker-symbol": "",
-        "label": "Spielplatz - Obacht wegen Lvl17-Nachbarn"
+        "label": "Spielplatz"
       },
       "geometry": {
         "type": "Point",
@@ -646,7 +646,7 @@
         "marker-color": "#0432ff",
         "marker-size": "medium",
         "marker-symbol": "",
-        "label": "Seelsorge in caritasheim "
+        "label": "Seelsorge in Caritasheim "
       },
       "geometry": {
         "type": "Point",
@@ -4322,8 +4322,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          8.622084259986877,
-          49.68128460276445
+          8.621,
+          49.6812
         ]
       }
     },
