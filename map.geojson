@@ -595,7 +595,7 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#7e7e7e",
+        "marker-color": "#0432ff",
         "marker-size": "medium",
         "marker-symbol": "",
         "label": "Wandmalerei"
@@ -4404,6 +4404,38 @@
         "coordinates": [
           8.620190620422363,
           49.68554678793304
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#0432ff",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "label": "Wolfgang-Sucker-Haus"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.62299084663391,
+          49.68789985384983
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#0432ff",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "label": "Villa Carstanjen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.621810674667358,
+          49.68614721233105
         ]
       }
     }
