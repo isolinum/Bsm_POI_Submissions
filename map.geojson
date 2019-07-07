@@ -4438,6 +4438,38 @@
           49.68614721233105
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#0432ff",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "label": "Kreuz und Stern"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.622717261314392,
+          49.68280487128721
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#0432ff",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "label": "Congregatio Jesu Schwesternschaft"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.623720407485962,
+          49.68299229836151
+        ]
+      }
     }
   ]
 }
