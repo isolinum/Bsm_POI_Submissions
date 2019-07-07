@@ -4374,6 +4374,38 @@
           49.669558195066216
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff2600",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "label": "Historischer Schild: Baumschule Belzner"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.615319728851318,
+          49.688878529144
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff2600",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "label": "Jüngling"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.620190620422363,
+          49.68554678793304
+        ]
+      }
     }
   ]
 }
