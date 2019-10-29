@@ -195,10 +195,10 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#0432ff",
+        "marker-color": "#00fa00",
         "marker-size": "medium",
         "marker-symbol": "",
-        "label": "Rote Schaukel"
+        "label": "Die unmögliche Schaukel"
       },
       "geometry": {
         "type": "Point",
@@ -211,7 +211,7 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#0432ff",
+        "marker-color": "#00fa00",
         "marker-size": "medium",
         "marker-symbol": "",
         "label": "Spielplatz Jakobsweg"
@@ -243,10 +243,10 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#0432ff",
+        "marker-color": "#00fa00",
         "marker-size": "medium",
         "marker-symbol": "",
-        "label": "Bunte Türme"
+        "label": "Türme am Zaun"
       },
       "geometry": {
         "type": "Point",
@@ -275,7 +275,7 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#0432ff",
+        "marker-color": "#00fa00",
         "marker-size": "medium",
         "marker-symbol": "",
         "label": "Lebensraum Winkelbach Infotafel"
@@ -467,7 +467,7 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#0432ff",
+        "marker-color": "#00fa00",
         "marker-size": "medium",
         "marker-symbol": "",
         "label": "Die Hahnmühle"
@@ -3922,9 +3922,9 @@
       "properties": {
         "fill-opacity": 0,
         "stroke-width": 2,
-        "stroke": "#4e7a27",
+        "stroke": "#0432ff",
         "marker-size": "",
-        "label": ""
+        "label": "Bachschisser"
       }
     },
     {
@@ -4442,7 +4442,7 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#0432ff",
+        "marker-color": "#00fa00",
         "marker-size": "medium",
         "marker-symbol": "",
         "label": "Kreuz und Stern"
@@ -4468,6 +4468,293 @@
         "coordinates": [
           8.623720407485962,
           49.68299229836151
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#0432ff",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "label": "Bachschisser"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.64672839641571,
+          49.67535232419351
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#0432ff",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "label": "Ehemalige Michaelskapelle"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.644295632839203,
+          49.67496526039031
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#0432ff",
+        "marker-size": "medium",
+        "marker-symbol": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.651679754257202,
+          49.675116267711424
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#0432ff",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "label": "Ehemalige Papierfabrik Euler"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.627561330795288,
+          49.67502253908455
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#0432ff",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "label": "Manlay-Platz"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.64499568939209,
+          49.67503989625132
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#0432ff",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "label": "Zell-Manlay"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.632888197898865,
+          49.67555366558164
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#0432ff",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "label": "Alte Egge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.651840686798096,
+          49.6748906244148
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#0432ff",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "label": "Alte Tränke"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.652849197387695,
+          49.67564392179539
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#0432ff",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "label": "Zell: Naturpark Bergstraße-Odenwald"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.644716739654541,
+          49.67481772404908
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#0432ff",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "label": "Hohlwege-Lehrpfad Zell-Gronau"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.671512007713318,
+          49.68342615455781
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#0432ff",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "label": "Kinderspielplatz Am Römer"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.671919703483582,
+          49.68399189722192
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#0432ff",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "label": "Big Ants"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.623334169387817,
+          49.67876807209506
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#0432ff",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "label": "Der bescheidene Hirte"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.624321222305298,
+          49.6794796560429
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#0432ff",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "label": "DJK-SSG Bensheim"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.62351655960083,
+          49.680330071980045
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#0432ff",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "label": "Des Feuerwehrmanns Helm"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.623720407485962,
+          49.680649408001
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#0432ff",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "label": "Blumenwiese Mural"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.63623559474945,
+          49.682433485876075
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#0432ff",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "label": "Infotafel Parkplatz Schönhof"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.636841773986815,
+          49.68416196581558
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#0432ff",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "label": "Hundebadestelle"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.606629371643065,
+          49.69492366810626
         ]
       }
     }
