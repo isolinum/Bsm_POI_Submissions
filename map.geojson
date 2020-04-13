@@ -67,7 +67,7 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#7e7e7e",
+        "marker-color": "#00fa00",
         "marker-size": "medium",
         "marker-symbol": "",
         "label": "Spielplatz Fliederweg"
@@ -99,7 +99,7 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#0432ff",
+        "marker-color": "#00fa00",
         "marker-size": "medium",
         "marker-symbol": "",
         "label": "Basketballfelder"
@@ -147,7 +147,7 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#0432ff",
+        "marker-color": "#00fa00",
         "marker-size": "medium",
         "marker-symbol": "",
         "label": "Spielplatz Dammstraße"
@@ -291,7 +291,7 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#0432ff",
+        "marker-color": "#00fa00",
         "marker-size": "medium",
         "marker-symbol": "",
         "label": "Skatepark"
@@ -339,7 +339,7 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#0432ff",
+        "marker-color": "#ff2600",
         "marker-size": "medium",
         "marker-symbol": "",
         "label": "Wandmalerei Gelocherte Sechsecke"
@@ -355,7 +355,7 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#0432ff",
+        "marker-color": "#ff2600",
         "marker-size": "medium",
         "marker-symbol": "",
         "label": "Spielplatz Jakob-Kindinger-Straße"
@@ -371,7 +371,7 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#0432ff",
+        "marker-color": "#ff2600",
         "marker-size": "medium",
         "marker-symbol": "",
         "label": "Spielerisch Lernen"
@@ -403,7 +403,7 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#0432ff",
+        "marker-color": "#ff2600",
         "marker-size": "medium",
         "marker-symbol": "",
         "label": "Bunte Holzstäbe"
@@ -419,7 +419,7 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#0432ff",
+        "marker-color": "#00fa00",
         "marker-size": "medium",
         "marker-symbol": "",
         "label": "Fußballfeld am Weiherhausstadion"
@@ -483,7 +483,7 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#0432ff",
+        "marker-color": "#00fa00",
         "marker-size": "medium",
         "marker-symbol": "",
         "label": "Historischer Rundgang bei Taxi Bergholz"
@@ -515,7 +515,7 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#0432ff",
+        "marker-color": "#00fa00",
         "marker-size": "medium",
         "marker-symbol": "",
         "label": "GGEW Graffiti blumen/Glühbirnen bei Kleingarten Bensheim"
@@ -531,7 +531,7 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#0432ff",
+        "marker-color": "#00fa00",
         "marker-size": "medium",
         "marker-symbol": "",
         "label": "Nemo und Dori - Grafitti"
@@ -579,7 +579,7 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#0432ff",
+        "marker-color": "#00fa00",
         "marker-size": "medium",
         "marker-symbol": "",
         "label": "Taubstummenanstalt"
@@ -595,7 +595,7 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#0432ff",
+        "marker-color": "#00fa00",
         "marker-size": "medium",
         "marker-symbol": "",
         "label": "Wandmalerei"
@@ -3962,7 +3962,7 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#0432ff",
+        "marker-color": "#00fa00",
         "marker-size": "medium",
         "marker-symbol": "",
         "label": 1965
@@ -4058,7 +4058,7 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#0432ff",
+        "marker-color": "#00fa00",
         "marker-size": "medium",
         "marker-symbol": "",
         "label": "Rex Musiktheater"
@@ -4074,7 +4074,7 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#0432ff",
+        "marker-color": "#00fa00",
         "marker-size": "medium",
         "marker-symbol": "",
         "label": "Roter Drache"
@@ -4154,7 +4154,7 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#0432ff",
+        "marker-color": "#00fa00",
         "marker-size": "medium",
         "marker-symbol": "",
         "label": "Die 4 Vögel"
@@ -4170,7 +4170,7 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#0432ff",
+        "marker-color": "#ff2600",
         "marker-size": "medium",
         "marker-symbol": "",
         "label": "Geometrische Wandmalerei"
@@ -4186,7 +4186,7 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#0432ff",
+        "marker-color": "#00fa00",
         "marker-size": "medium",
         "marker-symbol": "",
         "label": "De roure Gockel"
@@ -4474,7 +4474,7 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#0432ff",
+        "marker-color": "#00fa00",
         "marker-size": "medium",
         "marker-symbol": "",
         "label": "Bachschisser"
@@ -4490,7 +4490,7 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#0432ff",
+        "marker-color": "#942092",
         "marker-size": "medium",
         "marker-symbol": "",
         "label": "Ehemalige Michaelskapelle"
@@ -4506,7 +4506,7 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#0432ff",
+        "marker-color": "#00fa00",
         "marker-size": "medium",
         "marker-symbol": ""
       },
@@ -4537,7 +4537,7 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#0432ff",
+        "marker-color": "#00fa00",
         "marker-size": "medium",
         "marker-symbol": "",
         "label": "Manlay-Platz"
@@ -4553,7 +4553,7 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#0432ff",
+        "marker-color": "#00fa00",
         "marker-size": "medium",
         "marker-symbol": "",
         "label": "Zell-Manlay"
@@ -4569,7 +4569,7 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#0432ff",
+        "marker-color": "#ff2600",
         "marker-size": "medium",
         "marker-symbol": "",
         "label": "Alte Egge"
@@ -4585,7 +4585,7 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#0432ff",
+        "marker-color": "#00fa00",
         "marker-size": "medium",
         "marker-symbol": "",
         "label": "Alte Tränke"
@@ -4601,7 +4601,7 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#0432ff",
+        "marker-color": "#00fa00",
         "marker-size": "medium",
         "marker-symbol": "",
         "label": "Zell: Naturpark Bergstraße-Odenwald"
@@ -4649,7 +4649,7 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#0432ff",
+        "marker-color": "#00fa00",
         "marker-size": "medium",
         "marker-symbol": "",
         "label": "Big Ants"
@@ -4729,7 +4729,7 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#0432ff",
+        "marker-color": "#00fa00",
         "marker-size": "medium",
         "marker-symbol": "",
         "label": "Infotafel Parkplatz Schönhof"
