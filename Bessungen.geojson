@@ -1,0 +1,32 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.645285367965698,
+          49.85747788615734
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#0432ff",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "label": "Bolzplatz"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.648622035980225,
+          49.86142029307673
+        ]
+      }
+    }
+  ]
+}
