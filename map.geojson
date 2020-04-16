@@ -19,7 +19,7 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#0432ff",
+        "marker-color": "#ff2600",
         "marker-size": "medium",
         "marker-symbol": "",
         "label": "Drachentöter"
@@ -115,7 +115,7 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#0432ff",
+        "marker-color": "#00fa00",
         "marker-size": "medium",
         "marker-symbol": "",
         "label": "Doppelrutsche"
@@ -163,7 +163,7 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#0432ff",
+        "marker-color": "#00fa00",
         "marker-size": "medium",
         "marker-symbol": "",
         "label": "Beachvolleyballfeld"
@@ -179,7 +179,7 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#0432ff",
+        "marker-color": "#00fa00",
         "marker-size": "medium",
         "marker-symbol": "",
         "label": "Spielplatz am Badesee"
@@ -227,7 +227,7 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#0432ff",
+        "marker-color": "#ff2600",
         "marker-size": "medium",
         "marker-symbol": "",
         "label": "Sitzender Schäfer"
@@ -675,7 +675,7 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#0432ff",
+        "marker-color": "#00fa00",
         "marker-size": "medium",
         "marker-symbol": "",
         "label": "Treue"
@@ -867,7 +867,7 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#0432ff",
+        "marker-color": "#00fa00",
         "marker-size": "medium",
         "marker-symbol": "",
         "label": "3 Kinder (Mosaik)"
@@ -963,7 +963,7 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#0432ff",
+        "marker-color": "#00fa00",
         "marker-size": "medium",
         "marker-symbol": "",
         "label": "Polnische Bank Klozdko"
@@ -1107,7 +1107,7 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#0432ff",
+        "marker-color": "#ff2600",
         "marker-size": "medium",
         "marker-symbol": "",
         "label": "Jumelage - Bensheim - Beaune"
@@ -1171,7 +1171,7 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#0432ff",
+        "marker-color": "#00fa00",
         "marker-size": "medium",
         "marker-symbol": "",
         "label": "Villa Carstanjen"
@@ -1266,7 +1266,7 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#0432ff",
+        "marker-color": "#ff2600",
         "marker-size": "medium",
         "marker-symbol": "",
         "label": "Ehemalige Papierfabrik Euler"
@@ -1522,7 +1522,7 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#0432ff",
+        "marker-color": "#ff2600",
         "marker-size": "medium",
         "marker-symbol": "",
         "label": "Christus-Zentrum an der Bergstraße"
@@ -1554,7 +1554,7 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#0432ff",
+        "marker-color": "#ff2600",
         "marker-size": "medium",
         "marker-symbol": "",
         "label": "Jobcenter"
