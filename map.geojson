@@ -851,7 +851,7 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#0432ff",
+        "marker-color": "#ff2600",
         "marker-size": "medium",
         "marker-symbol": "",
         "label": "Widder, Fische, Krebs"
