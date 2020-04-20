@@ -259,7 +259,7 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#0432ff",
+        "marker-color": "#00fa00",
         "marker-size": "medium",
         "marker-symbol": "",
         "label": "4FCircle"
@@ -835,7 +835,7 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#0432ff",
+        "marker-color": "#ff2600",
         "marker-size": "medium",
         "marker-symbol": "",
         "label": "Postamt"
@@ -1203,7 +1203,7 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#0432ff",
+        "marker-color": "#00fa00",
         "marker-size": "medium",
         "marker-symbol": "",
         "label": "Congregatio Jesu Schwesternschaft"
@@ -1410,7 +1410,7 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#0432ff",
+        "marker-color": "#00fa00",
         "marker-size": "medium",
         "marker-symbol": "",
         "label": "Der bescheidene Hirte"
@@ -1442,7 +1442,7 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#0432ff",
+        "marker-color": "#00fa00",
         "marker-size": "medium",
         "marker-symbol": "",
         "label": "Des Feuerwehrmanns Helm"
@@ -1458,7 +1458,7 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#0432ff",
+        "marker-color": "#00fa00",
         "marker-size": "medium",
         "marker-symbol": "",
         "label": "Blumenwiese Mural"
@@ -1596,6 +1596,38 @@
         "coordinates": [
           8.621816039085388,
           49.68494288539369
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#00fa00",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "label": "Bernhardiner"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.614102005958557,
+          49.690552989933735
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#00fa00",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "label": "Riva-Del-Garda Platz"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6195307970047,
+          49.68883341334026
         ]
       }
     }
