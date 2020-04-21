@@ -739,7 +739,7 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#0432ff",
+        "marker-color": "#942092",
         "marker-size": "medium",
         "marker-symbol": "",
         "label": "Spielplatz am Weiherhaus"
@@ -1605,7 +1605,7 @@
         "marker-color": "#00fa00",
         "marker-size": "medium",
         "marker-symbol": "",
-        "label": "Bernhardiner"
+        "label": "Berner Sennenhund"
       },
       "geometry": {
         "type": "Point",
@@ -1628,6 +1628,22 @@
         "coordinates": [
           8.6195307970047,
           49.68883341334026
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#00fa00",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "label": "Alte AKG-Halle"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.614646494388579,
+          49.69087399396238
         ]
       }
     }
